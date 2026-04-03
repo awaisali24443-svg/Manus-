@@ -1,0 +1,5 @@
+{
+  "name": "Manus AI Clone",
+  "description": "An autonomous AI agent interface that simulates the Manus loop (Observe, Think, Act) using a virtual file system and tool calling.",
+  "requestFramePermissions": []
+}
